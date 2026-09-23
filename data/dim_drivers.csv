@@ -1,0 +1,251 @@
+driver_id,vehicle_type,rating,onboarding_date,active_status
+101,Sedan,4.37,21-05-2025,Active
+102,Hatchback,4.41,15-01-2026,Churned
+103,Hatchback,4.62,16-01-2025,Active
+104,Hatchback,4.73,15-10-2025,Active
+105,Sedan,4.69,23-04-2025,Active
+106,Hatchback,4.9,24-01-2026,Active
+107,Sedan,4.56,21-03-2025,Active
+108,Sedan,4.41,14-07-2025,Active
+109,Premium Sedan,4.73,18-02-2026,Active
+110,Sedan,4.43,13-07-2025,Active
+111,Hatchback,4.75,18-03-2026,Active
+112,Hatchback,4.39,05-12-2025,Active
+113,Hatchback,4.4,30-04-2025,Churned
+114,Hatchback,4.64,04-03-2026,Active
+115,Hatchback,4.48,17-05-2025,Active
+116,Sedan,4.39,22-11-2025,Active
+117,Sedan,4.45,14-07-2025,Active
+118,SUV,4.78,23-04-2025,Active
+119,Premium Sedan,4.84,28-04-2025,Active
+120,Premium Sedan,4.6,03-02-2025,Active
+121,SUV,4.9,11-06-2025,Active
+122,Sedan,4.91,26-11-2025,Active
+123,Hatchback,4.51,15-10-2025,Active
+124,Sedan,4.62,26-10-2025,Active
+125,Hatchback,4.98,18-09-2025,Active
+126,Sedan,4.89,20-03-2025,Active
+127,Sedan,4.62,02-02-2025,Active
+128,Sedan,4.64,09-05-2025,Suspended
+129,Premium Sedan,4.36,05-01-2026,Active
+130,Premium Sedan,4.82,29-01-2026,Active
+131,Hatchback,4.62,21-08-2025,Active
+132,Sedan,4.8,14-09-2025,Active
+133,Sedan,4.42,17-11-2025,Active
+134,Sedan,4.73,20-03-2025,Active
+135,Hatchback,4.95,29-09-2025,Churned
+136,Sedan,4.66,27-02-2025,Churned
+137,Premium Sedan,4.87,07-06-2025,Active
+138,Hatchback,4.71,10-02-2025,Active
+139,Sedan,4.39,25-01-2026,Active
+140,Hatchback,4.77,09-10-2025,Active
+141,Sedan,4.73,19-04-2025,Churned
+142,Sedan,4.78,01-01-2026,Active
+143,SUV,4.76,13-08-2025,Churned
+144,Sedan,4.51,02-02-2025,Active
+145,Sedan,4.49,23-04-2025,Active
+146,Sedan,4.39,04-02-2025,Churned
+147,Premium Sedan,4.39,02-05-2025,Active
+148,Sedan,4.69,06-01-2026,Churned
+149,Sedan,4.65,06-02-2026,Active
+150,Hatchback,4.41,04-12-2025,Active
+151,Hatchback,4.64,09-01-2026,Active
+152,Sedan,4.76,01-02-2025,Active
+153,Hatchback,4.89,08-05-2025,Active
+154,Sedan,4.44,04-04-2025,Active
+155,Hatchback,4.93,15-08-2025,Active
+156,Premium Sedan,4.41,30-11-2025,Suspended
+157,Premium Sedan,4.96,21-01-2026,Active
+158,Hatchback,4.66,20-04-2025,Churned
+159,SUV,4.45,02-01-2025,Suspended
+160,Hatchback,4.84,21-08-2025,Active
+161,Sedan,4.81,06-02-2026,Active
+162,Sedan,4.45,01-06-2025,Active
+163,Hatchback,4.81,01-02-2025,Active
+164,Hatchback,4.72,15-09-2025,Churned
+165,Sedan,4.39,18-09-2025,Active
+166,Hatchback,4.72,12-12-2025,Churned
+167,Hatchback,4.94,19-10-2025,Active
+168,Sedan,4.74,03-08-2025,Active
+169,Sedan,4.55,14-05-2025,Active
+170,Sedan,4.5,22-07-2025,Active
+171,Sedan,4.64,20-01-2026,Churned
+172,Hatchback,4.74,16-10-2025,Suspended
+173,Hatchback,4.48,16-05-2025,Active
+174,Hatchback,4.39,06-05-2025,Active
+175,Hatchback,4.88,27-12-2025,Active
+176,SUV,4.86,28-09-2025,Active
+177,Premium Sedan,4.54,06-12-2025,Active
+178,Premium Sedan,4.52,24-02-2025,Active
+179,Hatchback,4.53,18-04-2025,Active
+180,Hatchback,4.75,16-05-2025,Active
+181,Hatchback,4.92,27-01-2025,Active
+182,Hatchback,4.52,02-01-2025,Active
+183,Hatchback,4.97,24-03-2025,Active
+184,Sedan,4.62,05-01-2025,Active
+185,SUV,4.79,18-03-2025,Active
+186,Premium Sedan,4.72,17-03-2025,Active
+187,Hatchback,4.58,12-02-2026,Suspended
+188,Hatchback,4.58,16-12-2025,Active
+189,Hatchback,4.84,24-03-2026,Active
+190,Sedan,4.45,02-05-2025,Churned
+191,SUV,4.86,31-07-2025,Active
+192,Sedan,4.56,30-07-2025,Active
+193,Premium Sedan,4.86,17-05-2025,Active
+194,Sedan,4.59,20-01-2025,Churned
+195,Hatchback,4.86,24-08-2025,Active
+196,Premium Sedan,4.9,25-04-2025,Active
+197,Hatchback,4.56,19-03-2026,Active
+198,Sedan,4.57,18-09-2025,Active
+199,SUV,4.69,15-01-2025,Active
+200,SUV,4.46,16-05-2025,Active
+201,Sedan,4.57,07-02-2026,Active
+202,Sedan,4.67,17-07-2025,Churned
+203,Hatchback,4.38,12-08-2025,Active
+204,SUV,4.69,04-01-2026,Churned
+205,Sedan,4.47,09-08-2025,Active
+206,Sedan,4.56,10-06-2025,Active
+207,Hatchback,4.92,17-09-2025,Active
+208,Hatchback,4.6,01-06-2025,Active
+209,Hatchback,4.77,14-07-2025,Active
+210,SUV,4.74,04-06-2025,Active
+211,Premium Sedan,4.54,18-04-2025,Active
+212,Sedan,4.76,27-08-2025,Active
+213,Sedan,4.67,11-02-2026,Churned
+214,Sedan,4.46,13-02-2025,Active
+215,Sedan,4.74,17-02-2025,Active
+216,Sedan,4.77,26-04-2025,Active
+217,Hatchback,4.38,01-09-2025,Active
+218,Sedan,4.64,19-11-2025,Active
+219,Sedan,4.59,24-07-2025,Active
+220,Sedan,4.35,20-01-2026,Churned
+221,Premium Sedan,4.84,23-04-2025,Active
+222,SUV,4.68,26-01-2025,Active
+223,SUV,4.43,10-03-2025,Active
+224,Sedan,4.97,01-11-2025,Active
+225,Sedan,4.63,22-02-2026,Active
+226,Sedan,4.87,08-10-2025,Active
+227,Hatchback,4.89,19-08-2025,Active
+228,Hatchback,4.75,28-01-2026,Active
+229,Sedan,4.5,14-08-2025,Active
+230,Hatchback,4.52,13-06-2025,Churned
+231,Hatchback,4.45,16-07-2025,Active
+232,Sedan,4.39,28-07-2025,Active
+233,Sedan,4.39,03-03-2026,Active
+234,SUV,4.72,23-12-2025,Active
+235,Premium Sedan,4.71,02-09-2025,Active
+236,Hatchback,4.82,13-03-2026,Churned
+237,Premium Sedan,4.69,12-01-2026,Active
+238,Sedan,4.49,23-04-2025,Active
+239,Sedan,4.59,09-12-2025,Active
+240,Hatchback,4.45,28-08-2025,Churned
+241,SUV,4.69,21-07-2025,Active
+242,Sedan,4.4,08-08-2025,Active
+243,Sedan,4.38,14-07-2025,Active
+244,Sedan,4.56,27-03-2026,Active
+245,Sedan,4.87,10-05-2025,Active
+246,Sedan,4.82,27-01-2025,Suspended
+247,Hatchback,4.76,04-02-2026,Churned
+248,Hatchback,4.37,07-05-2025,Active
+249,Hatchback,4.45,06-03-2025,Active
+250,Hatchback,4.95,27-08-2025,Active
+251,Sedan,4.46,07-11-2025,Churned
+252,Sedan,4.84,25-03-2025,Churned
+253,Hatchback,4.37,09-06-2025,Active
+254,SUV,4.59,02-01-2026,Active
+255,Sedan,4.87,05-05-2025,Active
+256,Sedan,4.89,04-11-2025,Active
+257,Sedan,4.71,22-01-2025,Active
+258,Hatchback,4.58,17-09-2025,Active
+259,Hatchback,4.61,08-09-2025,Active
+260,SUV,4.75,01-03-2026,Active
+261,Hatchback,4.46,25-09-2025,Churned
+262,Hatchback,4.86,03-10-2025,Active
+263,Sedan,4.87,31-10-2025,Active
+264,Premium Sedan,4.87,14-02-2025,Active
+265,Sedan,4.82,19-10-2025,Active
+266,Hatchback,4.37,12-03-2026,Active
+267,Sedan,4.57,13-05-2025,Active
+268,Premium Sedan,4.79,22-05-2025,Active
+269,Sedan,4.47,04-05-2025,Active
+270,Sedan,4.83,20-12-2025,Active
+271,Sedan,4.63,09-01-2025,Active
+272,Hatchback,4.79,06-06-2025,Active
+273,Hatchback,4.7,26-06-2025,Active
+274,Sedan,4.56,26-12-2025,Active
+275,Hatchback,4.5,05-01-2026,Active
+276,Hatchback,4.69,26-01-2026,Active
+277,Hatchback,4.82,22-05-2025,Active
+278,SUV,4.68,25-05-2025,Suspended
+279,Premium Sedan,4.54,04-07-2025,Active
+280,Hatchback,4.69,21-05-2025,Active
+281,Hatchback,4.53,06-03-2025,Active
+282,Sedan,4.41,07-01-2025,Active
+283,Sedan,4.63,05-04-2025,Churned
+284,Hatchback,4.89,28-02-2025,Active
+285,Hatchback,4.4,19-11-2025,Active
+286,Hatchback,4.86,05-06-2025,Active
+287,Hatchback,4.7,02-08-2025,Active
+288,Sedan,4.49,25-09-2025,Active
+289,SUV,4.54,29-10-2025,Suspended
+290,Hatchback,4.74,09-11-2025,Churned
+291,Hatchback,4.83,17-11-2025,Active
+292,Sedan,4.45,30-03-2025,Active
+293,Hatchback,4.61,19-12-2025,Active
+294,Hatchback,4.5,28-12-2025,Active
+295,Premium Sedan,4.39,30-04-2025,Churned
+296,Sedan,4.74,05-12-2025,Active
+297,Hatchback,4.42,26-04-2025,Active
+298,SUV,4.87,06-02-2025,Active
+299,Sedan,4.72,27-02-2026,Active
+300,Hatchback,4.43,19-12-2025,Active
+301,Hatchback,4.52,04-10-2025,Active
+302,Hatchback,4.38,10-08-2025,Active
+303,Sedan,4.37,28-04-2025,Churned
+304,Premium Sedan,4.71,11-01-2025,Suspended
+305,Sedan,4.52,21-01-2025,Active
+306,Hatchback,4.68,15-08-2025,Churned
+307,Hatchback,4.72,22-11-2025,Active
+308,SUV,4.65,29-07-2025,Active
+309,Sedan,4.89,18-06-2025,Active
+310,Sedan,4.77,25-07-2025,Active
+311,Sedan,4.64,11-06-2025,Active
+312,Hatchback,4.84,19-03-2026,Active
+313,SUV,4.76,05-10-2025,Active
+314,Hatchback,4.68,15-11-2025,Active
+315,Sedan,4.83,15-04-2025,Active
+316,Hatchback,4.53,27-03-2026,Active
+317,Hatchback,4.96,08-11-2025,Active
+318,Sedan,4.55,08-01-2025,Active
+319,Hatchback,4.98,28-02-2025,Active
+320,Hatchback,4.87,13-09-2025,Churned
+321,Hatchback,4.79,01-08-2025,Active
+322,SUV,4.5,10-10-2025,Active
+323,Hatchback,4.73,18-01-2026,Churned
+324,Premium Sedan,4.52,09-02-2026,Churned
+325,Hatchback,4.85,17-05-2025,Active
+326,Hatchback,4.54,28-10-2025,Active
+327,Sedan,4.9,17-08-2025,Active
+328,Hatchback,4.7,06-10-2025,Active
+329,SUV,4.9,24-12-2025,Active
+330,Hatchback,4.89,30-07-2025,Active
+331,Sedan,4.79,20-02-2026,Active
+332,SUV,4.85,30-11-2025,Suspended
+333,Sedan,4.37,15-09-2025,Churned
+334,Hatchback,4.41,09-03-2026,Active
+335,Sedan,4.64,05-01-2026,Active
+336,Premium Sedan,4.96,08-02-2025,Active
+337,SUV,4.56,21-12-2025,Active
+338,Hatchback,4.56,12-12-2025,Churned
+339,Hatchback,4.55,03-01-2026,Churned
+340,Sedan,4.69,13-11-2025,Active
+341,Sedan,4.93,27-04-2025,Active
+342,Hatchback,4.41,21-11-2025,Active
+343,Hatchback,4.45,03-06-2025,Churned
+344,Hatchback,4.85,31-05-2025,Active
+345,Hatchback,4.5,30-07-2025,Active
+346,Sedan,4.46,10-02-2025,Active
+347,Hatchback,4.78,12-09-2025,Churned
+348,Hatchback,4.64,11-05-2025,Active
+349,Sedan,4.92,27-08-2025,Churned
+350,Sedan,4.45,15-08-2025,Churned

@@ -1,0 +1,9 @@
+zone_id,zone_name,area_type
+1,International Airport,Airport
+2,Tech Hub & Financial District,Commercial
+3,Downtown Central,Commercial
+4,Midtown Retail & Dining,Commercial
+5,North Suburbs,Residential
+6,South Suburbs,Residential
+7,East University District,Residential
+8,West Lake Residences,Residential
